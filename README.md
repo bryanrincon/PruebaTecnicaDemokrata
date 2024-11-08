@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# Prueba Técnica Demokrata
 
 Descripción breve de lo que hace la aplicación. Por ejemplo:
 
